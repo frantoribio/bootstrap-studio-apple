@@ -14,34 +14,7 @@ Platilla de web usando Bootstrap Studio
 Se ha usado:
 
 - [Bootstrap Studio](https://bootstrapstudio.io/): Para la maquetación inicial.
-- [Gulp](https://gulpjs.com/): Para automatizar tareas.
-- [FontAwasome](https://fontawesome.com/v4.7.0/icons/): Fuentes e iconos.
-- [BrwoserSync](https://www.browsersync.io/): Servidor para ir viendo y visualizando los cambios automatizados.
-- [bootstrap4-color-generator](https://lingtalfi.com/bootstrap4-color-generator): Crear temas de Bootstrapt 4.
 
-## Project setup
-
-```
-npm install
-```
-
-### Developent
-
-```
-npm run serve
-```
-
-### Clean
-
-```
-npm run clean
-```
-
-### Distribuir
-
-```
-npm run dist
-```
 
 ## Autor
 
